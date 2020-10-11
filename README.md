@@ -6,10 +6,10 @@
 
 ```mkdir "temp_raft_sync"```
 
-3. Copy your save files to the new directory/folder.
+3. Copy your save files to the new directory/folder. Either just copy them or use the following command in cmd prompt
 
-xcopy "dir1" "dir2" e.g.
-
+```xcopy "dir1" "dir2"```
+e.g.
 ```xcopy "C:\Users\{YOUR USER}\AppData\LocalLow\Redbeet Interactive\Raft" temp_raft_sync```
 
 4. Upload your files to this repo 
